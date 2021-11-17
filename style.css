@@ -63,12 +63,14 @@ button {
   padding: 10px 30px 10px 30px;
   border: 1px solid #FF6033;
   background: #FF6033;
+  cursor: pointer;
 }
 
 .header__scroll {
   position: absolute;
   left: 600px;
   top: 500px;
+  cursor: pointer;
 }
 
 .about {
